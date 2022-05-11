@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: https://rayuela90.github.io/upptime-sacvefor
+  baseUrl: /upptime-sacvefor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "SACVeFor V2 Upptime"
   introTitle: "Monitoreo de vida de los dominios de SACVeFor"
@@ -24,8 +24,8 @@ status-website:
   navbar:
     - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

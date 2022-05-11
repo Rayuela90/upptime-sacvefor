@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: SACVeFor V2 - Upptime
   introTitle: "Monitoreo de vida de los dominios de SACVeFor"
-  #introMessage: Uptime para dominios del SACVeFor
+  introMessage:
   navbar:
     - title: Estado
       href: /

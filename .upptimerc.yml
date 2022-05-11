@@ -4,16 +4,16 @@ repo: upptime-sacvefor # The name of this repository
 
 sites:
   - name: "TRAZ Frontend"
-    url: http://sacvefor.traz.front.bosquesnativos.net.ar/
+    url: $TRAZ_FRONT_URL
   - name: "TRAZ Backend"
-    url: http://sacvefor.traz.back.bosquesnativos.net.ar/
+    url: $TRAZ_BACK_URL
     expectedStatusCodes:
       - 200
       - 404
   - name: "CGL Misiones"
-    url: http://sacvefor.test.bosquesnativos.net.ar/cgl-2-misiones/
+    url: $CGL_MISIONES_URL
   - name: "CGL Jujuy"
-    url: http://sacvefor.test.bosquesnativos.net.ar/cgl-2-jujuy/
+    url: $CGL_JUJUY_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,9 +21,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime-sacvefor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "SACVeFor V2 - Upptime"
-  #introTitle: "Monitoreo de vida de los dominios de SACVeFor"
-  #introMessage: "Monitoreo de vida de los dominios de SACVeFor"
+  name: "SACVeFor V2 - Uptime"
+  introTitle: "Monitoreo de dominios para SACVeFor"
+  introMessage: "Los resultados se refrescan cada 5 minutos"
   navbar:
     - title: Estado
       href: /

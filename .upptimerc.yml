@@ -9,6 +9,7 @@ sites:
     url: $TRAZ_BACK_URL
     expectedStatusCodes:
       - 200
+      - 401
       - 404
   - name: "CGL Misiones"
     url: $CGL_MISIONES_URL

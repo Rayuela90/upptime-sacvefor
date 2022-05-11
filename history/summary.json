@@ -4,12 +4,12 @@
     "url": "http://sacvefor.traz.front.bosquesnativos.net.ar/",
     "icon": "https://favicons.githubusercontent.com/sacvefor.traz.front.bosquesnativos.net.ar",
     "slug": "traz-frontend",
-    "status": "up",
-    "uptime": "30.35%",
-    "uptimeDay": "30.35%",
-    "uptimeWeek": "30.35%",
-    "uptimeMonth": "30.35%",
-    "uptimeYear": "30.35%",
+    "status": "down",
+    "uptime": "33.99%",
+    "uptimeDay": "33.99%",
+    "uptimeWeek": "33.99%",
+    "uptimeMonth": "33.99%",
+    "uptimeYear": "33.99%",
     "time": 1937,
     "timeDay": 1937,
     "timeWeek": 1937,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-11": 82
+      "2022-05-11": 86
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 637,
-    "timeWeek": 637,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "time": 859,
+    "timeDay": 859,
+    "timeWeek": 859,
+    "timeMonth": 859,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {

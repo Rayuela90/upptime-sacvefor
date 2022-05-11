@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traz-frontend",
     "status": "up",
-    "uptime": "67.08%",
-    "uptimeDay": "67.08%",
-    "uptimeWeek": "67.08%",
-    "uptimeMonth": "67.08%",
-    "uptimeYear": "67.08%",
+    "uptime": "67.14%",
+    "uptimeDay": "67.14%",
+    "uptimeWeek": "67.14%",
+    "uptimeMonth": "67.14%",
+    "uptimeYear": "67.14%",
     "time": 1657,
     "timeDay": 1657,
     "timeWeek": 1657,
     "timeMonth": 1657,
     "timeYear": 1657,
     "dailyMinutesDown": {
-      "2022-05-11": 52
+      "2022-05-11": 53
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "$TRAZ_BACK_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traz-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",

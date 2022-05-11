@@ -4,19 +4,19 @@
     "url": "$TRAZ_FRONT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traz-frontend",
-    "status": "down",
-    "uptime": "54.80%",
-    "uptimeDay": "54.80%",
-    "uptimeWeek": "54.80%",
-    "uptimeMonth": "54.80%",
-    "uptimeYear": "54.80%",
-    "time": 1407,
-    "timeDay": 1407,
-    "timeWeek": 1407,
-    "timeMonth": 1407,
-    "timeYear": 1407,
+    "status": "up",
+    "uptime": "49.77%",
+    "uptimeDay": "49.77%",
+    "uptimeWeek": "49.77%",
+    "uptimeMonth": "49.77%",
+    "uptimeYear": "49.77%",
+    "time": 1442,
+    "timeDay": 1442,
+    "timeWeek": 1442,
+    "timeMonth": 1442,
+    "timeYear": 1442,
     "dailyMinutesDown": {
-      "2022-05-11": 186
+      "2022-05-11": 228
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traz-backend",
     "status": "down",
-    "uptime": "33.00%",
-    "uptimeDay": "33.00%",
-    "uptimeWeek": "33.00%",
-    "uptimeMonth": "33.00%",
-    "uptimeYear": "33.00%",
+    "uptime": "29.96%",
+    "uptimeDay": "29.96%",
+    "uptimeWeek": "29.96%",
+    "uptimeMonth": "29.96%",
+    "uptimeYear": "29.96%",
     "time": 1305,
     "timeDay": 1305,
     "timeWeek": 1305,
     "timeMonth": 1305,
     "timeYear": 1305,
     "dailyMinutesDown": {
-      "2022-05-11": 275
+      "2022-05-11": 316
     }
   },
   {

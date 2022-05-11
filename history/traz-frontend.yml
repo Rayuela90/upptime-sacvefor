@@ -1,7 +1,7 @@
-url: http://sacvefor.traz.front.bosquesnativos.net.ar/
+url: $TRAZ_FRONT_URL
 status: up
 code: 200
-responseTime: 1099
-lastUpdated: 2022-05-11T17:23:35.119Z
+responseTime: 1465
+lastUpdated: 2022-05-11T17:45:08.408Z
 startTime: Wed May 11 2022 15:08:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

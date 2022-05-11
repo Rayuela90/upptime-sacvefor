@@ -7,6 +7,10 @@ sites:
     url: http://sacvefor.traz.front.bosquesnativos.net.ar/
   - name: TRAZ Backend
     url: http://sacvefor.traz.back.bosquesnativos.net.ar/
+  - name: CGL Misiones
+    url: http://sacvefor.test.bosquesnativos.net.ar/cgl-2-misiones/
+  - name: CGL Jujuy
+    url: http://sacvefor.test.bosquesnativos.net.ar/cgl-2-jujuy/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,14 +18,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: https://rayuela90.github.io/upptime-sacvefor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Uptime para dominios del SACVeFor
+  name: SACVeFor V2 - Upptime
+  introTitle: "Monitoreo de vida de los dominios de SACVeFor"
+  #introMessage: Uptime para dominios del SACVeFor
   navbar:
     - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

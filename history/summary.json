@@ -46,19 +46,19 @@
     "url": "$CGL_MISIONES_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cgl-misiones",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1459,
-    "timeDay": 994,
-    "timeWeek": 1470,
-    "timeMonth": 1459,
-    "timeYear": 1459,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1468,
+    "timeDay": 1257,
+    "timeWeek": 1505,
+    "timeMonth": 1468,
+    "timeYear": 1468,
     "dailyMinutesDown": {
-      "2022-06-09": 0
+      "2022-06-09": 12
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "$CGL_JUJUY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cgl-jujuy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 349,
-    "timeWeek": 353,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 338,
+    "timeDay": 367,
+    "timeWeek": 359,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-06-09": 0
+      "2022-06-09": 12
     }
   }
 ]
